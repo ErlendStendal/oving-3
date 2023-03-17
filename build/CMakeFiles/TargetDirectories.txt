@@ -1,0 +1,4 @@
+/home/erlend/Documents/Øvinger/oving-3/build/CMakeFiles/client.dir
+/home/erlend/Documents/Øvinger/oving-3/build/CMakeFiles/publisher.dir
+/home/erlend/Documents/Øvinger/oving-3/build/CMakeFiles/edit_cache.dir
+/home/erlend/Documents/Øvinger/oving-3/build/CMakeFiles/rebuild_cache.dir
